@@ -1,0 +1,17 @@
+export const ADD_COMMENTS = 'ADD_COMMENTS';
+export const ADD_POST = 'ADD_POST';
+export const ADD_USER = 'ADD_USER';
+export const ADD_POSTS = 'ADD_POSTS';
+export const ADD_USERS = 'ADD_USERS';
+export const DELETE_ACCOUNT = 'DELETE_ACCOUNT';
+export const DELETE_POST = 'DELETE_POST';
+export const DELETE_USERS = 'DELETE_USERS';
+export const DELETE_COMMENTS = 'DELETE_COMMENTS';
+export const EDIT_COMMENTS = 'EDIT_COMMENTS';
+export const EDIT_POST = 'EDIT_POST';
+export const EDIT_USERS = 'EDIT_USERS';
+export const FETCH_COMMENTS = 'FETCH_COMMENTS';
+export const FETCH_POST = 'FETCH_POST';
+export const FETCH_POSTS = 'FETCH_POSTS';
+export const FETCH_USER = 'FETCH_USER';
+export const FETCH_USERS = 'FETCH_USERS';
